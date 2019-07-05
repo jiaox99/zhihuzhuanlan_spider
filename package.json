@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "htmlparser2": "^3.10.1",
+        "superagent": "^5.1.0",
+        "xmlbuilder": "^13.0.2"
+    }
+}
